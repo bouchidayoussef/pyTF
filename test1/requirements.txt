@@ -1,0 +1,7 @@
+Keras
+opencv-python
+Pillow
+python-dateutil
+streamlit
+tensorflow
+matplotlib
